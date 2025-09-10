@@ -1,7 +1,7 @@
 ## Hi there 👋  Welcome to my Github!
 
 
-Hi! I'm **SandyGCabanes/SandyGCabanes**, a certified Data Analyst coming from extensive marketing research and business analysis background.  I am passionate about producing business-relevant and actionable insights from data analysis.  I enjoy manipulating data to produce insights that answer business questions.   
+Hi! I'm **SandyGCabanes**, a certified Data Analyst coming from extensive marketing research and business analysis background.  I am passionate about producing business-relevant and actionable insights from data analysis.  I enjoy manipulating data to produce insights that answer business questions.   
 
 - I have been volunteering as a Community Leader at Data Engineering Pilipinas as one of the Moderators.  
 - I started the DEP DataMasters initiative to help like-minded individuals gain confidence in presenting data-related topics, as well as gain mock interview experience.
