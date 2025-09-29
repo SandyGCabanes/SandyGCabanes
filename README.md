@@ -16,6 +16,7 @@ Hi! I'm **SandyGCabanes**, a certified Data Analyst with business analysis and e
 - [R - Privacy Protection Using Bayesian Networks on Real World Survey Data to Produce Anonymized Dataset](https://github.com/SandyGCabanes/Survey-Data-Privacy-Protection-Using-R-and-Bayesian-Networks)
 - [Tableau - Interactive Dashboard Public Link ](https://github.com/SandyGCabanes/2024-Survey-Report-on-the-State-of-the-Community-DEP)
 - [Python to HTML - Interactive Dashboard for Easy Download, Only Browser Needed](https://github.com/SandyGCabanes/Automated-Interactive-Dashboard-Into-HTML-Using-Python)
+- [Power BI - Storytelling with Data](https://github.com/SandyGCabanes/Storytelling-with-Data-in-Power-BI-on-Latin-America-Urbanization)
 
 ### Automation:
 - [Python - Automated Data Processing of Raw Data](https://github.com/SandyGCabanes/Data-Processing-Workflow-for-Raw-Data)
