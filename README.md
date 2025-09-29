@@ -10,3 +10,19 @@ Hi! I'm **SandyGCabanes**, a certified Data Analyst with business analysis and e
 - I also have projects that explore ETL in Google Cloud, AWS and Azure.  I am committed to continuous upskilling.
 - Feel free to browse through my repositories!
 
+### Data Analysis:
+- [R, Excel, Python - Market Size Revenue and Share Estimates of Electric Vehicles in WA](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA)
+	- Dashboard versions available in R, Excel, Python
+- [Python - Anonymized Real-World Data Using Bayesian Networks to Protect Privacy](https://github.com/SandyGCabanes/Anonymized-Survey-Data-Modeling-with-Bayesian-Networks-in-Python)
+- [R - Privacy Protection Using Bayesian Networks on Real World Survey Data to Produce Anonymized Dataset](https://github.com/SandyGCabanes/Survey-Data-Privacy-Protection-Using-R-and-Bayesian-Networks)
+- [Tableau - Interactive Dashboard For In Public Link ](https://github.com/SandyGCabanes/2024-Survey-Report-on-the-State-of-the-Community-DEP)
+- [Python to HTML - Interactive Dashboard for Easy Download, Only Browser Needed]
+
+### Automation:
+- [Python - Automated Data Processing of Raw Data](https://github.com/SandyGCabanes/Data-Processing-Workflow-for-Raw-Data)
+- [Python - Unicode Flowchart Builder App](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App)
+- [Python - Converting mp4 to gif](https://github.com/SandyGCabanes/mp4_to_gif)
+
+Data Engineering:
+- [AWS Glue for Extract - Transfer - Load](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data)
+- [ETL Using Airflow in Google Cloud Composer](https://github.com/SandyGCabanes/ETL-Earthquake-Data-from-USGS-Google-Cloud-Composer-Airflow)
