@@ -14,7 +14,7 @@ Hi! I'm **SandyGCabanes**, a certified Data Analyst with business analysis and e
 - [R, Excel, Python - Market Size Revenue and Share Estimates of Electric Vehicles in WA](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA)
 - [Python - Anonymized Real-World Data Using Bayesian Networks to Protect Privacy](https://github.com/SandyGCabanes/Anonymized-Survey-Data-Modeling-with-Bayesian-Networks-in-Python)
 - [R - Privacy Protection Using Bayesian Networks on Real World Survey Data to Produce Anonymized Dataset](https://github.com/SandyGCabanes/Survey-Data-Privacy-Protection-Using-R-and-Bayesian-Networks)
-- [Tableau - Interactive Dashboard For In Public Link ](https://github.com/SandyGCabanes/2024-Survey-Report-on-the-State-of-the-Community-DEP)
+- [Tableau - Interactive Dashboard Public Link ](https://github.com/SandyGCabanes/2024-Survey-Report-on-the-State-of-the-Community-DEP)
 - [Python to HTML - Interactive Dashboard for Easy Download, Only Browser Needed](https://github.com/SandyGCabanes/Automated-Interactive-Dashboard-Into-HTML-Using-Python)
 
 ### Automation:
