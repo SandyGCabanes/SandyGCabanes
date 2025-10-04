@@ -1,6 +1,6 @@
-# 🎥 Showcase of Dashboards and Workflows
+# Showcase of Dashboards and Workflows
 
-## 🚗 Electric Vehicles Market Analysis
+## Electric Vehicles Market Analysis
 
 **R Dashboard**  
 ![Tesla Presentation](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/R/dashboard_charts/Tesla_presentation.gif)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔐 Privacy and Bayesian Networks
+## Privacy and Bayesian Networks
 
 **Python Bayesian Network**  
 ![Python BN](https://github.com/SandyGCabanes/Anonymized-Survey-Data-Modeling-with-Bayesian-Networks-in-Python/blob/main/loaded_model_1500_730pm.png)
