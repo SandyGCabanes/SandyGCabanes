@@ -9,6 +9,8 @@ Hi! I'm **SandyGCabanes**, a certified Data Analyst with business analysis and e
 - I have projects that use Python, Tableau, R, Power BI, SQL and Power query for Excel.
 - I also have projects that explore ETL in Google Cloud, AWS and Azure.  Will continue to add to these cloud projects.
 - Feel free to browse through my repositories!
+- See full diagnostic walkthroughs in the [Showcase Page](SHOWCASE.md)
+
 
 ### Data Analysis:
 - [R, Excel, Python - Market Size Revenue and Share Estimates of Electric Vehicles in WA](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA)
