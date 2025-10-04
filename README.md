@@ -11,6 +11,15 @@ Hi! I'm **SandyGCabanes**, a certified Data Analyst with business analysis and e
 - Feel free to browse through my repositories!
 - See full diagnostic walkthroughs in the [Showcase Page](SHOWCASE.md)
 
+### Demo Highlights:
+
+[![EV Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Python/ev_thumb.gif)](SHOWCASE.md#electric-vehicles-market-analysis)  
+*EV Market Dashboard - Python Version* <br>[R version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#r-dashboard-using-flexdashboard), [Excel version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#excel-dashboard-using-pivot-charts)  <br> <br>
+
+[![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/flowchart_thumb.gif)](SHOWCASE.md#storytelling-and-automation)  
+*Unicode Flowchart Builder* <br> <br>
+[![ETL Workflow](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/etl_thumb.gif)](SHOWCASE.md#cloud-etl-workflows)  
+*AWS Glue ETL* <br> <br>
 
 ### Data Analysis:
 - [R, Excel, Python - Market Size Revenue and Share Estimates of Electric Vehicles in WA](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA)
