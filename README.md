@@ -24,7 +24,8 @@ I enjoy manipulating and digging into data to produce insights that answer busin
 [![ETL Workflow](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/etl_thumb.gif)](SHOWCASE.md#cloud-etl-workflows)  
 *AWS Glue ETL* <br> <br>
 
-### Data Analysis:
+---
+### Data Analysis and Machine Learning:
 - [R, Excel, Python - Market Size Revenue and Share Estimates of Electric Vehicles in WA](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA)
 - [Python - Anonymized Real-World Data Using Bayesian Networks to Protect Privacy](https://github.com/SandyGCabanes/Anonymized-Survey-Data-Modeling-with-Bayesian-Networks-in-Python)
 - [R - Privacy Protection Using Bayesian Networks on Real World Survey Data to Produce Anonymized Dataset](https://github.com/SandyGCabanes/Survey-Data-Privacy-Protection-Using-R-and-Bayesian-Networks)
