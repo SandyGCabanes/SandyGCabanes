@@ -2,11 +2,9 @@
 
 
 Hi! I'm **SandyGCabanes**, a certified Data Analyst with business analysis and extensive marketing research background.  
-<p align="left">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    I enjoy manipulating and digging into data to produce insights that answer business questions.
-  </marquee>
-</p>
+
+I enjoy manipulating and digging into data to produce insights that answer business questions.
+
 
 - I have been volunteering as a Community Leader at Data Engineering Pilipinas as one of the Moderators.
 - I lead the State of the Community survey initiative. I designed, launched, processed data, analyzed data and presented findings.
