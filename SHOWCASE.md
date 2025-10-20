@@ -13,7 +13,7 @@
 
 ---
 
-## Privacy and Bayesian Networks
+## Privacy and Bayesian Networks Using Python and R
 
 **Python Bayesian Network**  
 ![Python BN](https://github.com/SandyGCabanes/Anonymized-Survey-Data-Modeling-with-Bayesian-Networks-in-Python/blob/main/loaded_model_1500_730pm.png)
