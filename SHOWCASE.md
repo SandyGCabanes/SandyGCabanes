@@ -46,7 +46,7 @@
 ![Power BI](https://github.com/SandyGCabanes/Storytelling-with-Data-in-Power-BI-on-Latin-America-Urbanization/blob/main/demo_github.gif)
 
 **Unicode Flowchart Builder** 
-![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/uiv12.PNG)
+![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/unicode_flowchart_demo.mp4_1.0x_1080px_.gif)
 
 ---
 
