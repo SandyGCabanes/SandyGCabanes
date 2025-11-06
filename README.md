@@ -9,7 +9,7 @@ I enjoy manipulating and digging into data  to produce insights that answer busi
 
 - I have been volunteering as a Community Leader at Data Engineering Pilipinas as one of the Moderators.
 - I use Python, SQL, R, Tableau, Power BI, and Excel with Power query for Data Analysis.
-- I have also used Google Cloud, AWS and Azure.  Will continue to add more cloud projects.
+- I have also used Google Cloud, AWS and Azure.  
 - I lead the State of the Community survey initiative. I designed, launched, processed data, analyzed data and presented findings.
 - I started the DEP DataMasters initiative to help like-minded individuals gain confidence in presenting data-related topics, as well as gain mock interview experience.
 - Feel free to browse through my repositories!
