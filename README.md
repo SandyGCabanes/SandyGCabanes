@@ -13,7 +13,7 @@ I enjoy manipulating and digging into data  to produce insights that answer busi
 - I lead the State of the Community survey initiative. I designed, launched, processed data, analyzed data and presented findings.
 - I started the DEP DataMasters initiative to help like-minded individuals gain confidence in presenting data-related topics, as well as gain mock interview experience.
 - Feel free to browse through my repositories!
-- See full diagnostic walkthroughs in the [Showcase Page](SHOWCASE.md)
+- See full gallery of walkthroughs in the [Showcase Page](SHOWCASE.md)
 
 ### Demo Highlights:
 
