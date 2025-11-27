@@ -32,7 +32,7 @@ I enjoy manipulating and digging into data  to produce insights that answer busi
 - [Privacy Protection Using Bayesian Networks on Real World Survey Data to Produce Anonymized Dataset - R](https://github.com/SandyGCabanes/Survey-Data-Privacy-Protection-Using-R-and-Bayesian-Networks)
 - [Interactive Dashboard Public Link -Tableau](https://github.com/SandyGCabanes/2024-Survey-Report-on-the-State-of-the-Community-DEP)
 - [Interactive Dashboard for Easy Download, Only Browser Needed - Python to HTML](https://github.com/SandyGCabanes/Automated-Interactive-Dashboard-Into-HTML-Using-Python)
-- [Storytelling with Data - Power BI](https://github.com/SandyGCabanes/Storytelling-with-Data-in-Power-BI-on-Latin-America-Urbanization)
+- [Latin America Urbanization Storytelling with Data - Power BI](https://github.com/SandyGCabanes/Storytelling-with-Data-in-Power-BI-on-Latin-America-Urbanization)
 
 ### Automation:
 - [Python - Automated Data Processing of Raw Data](https://github.com/SandyGCabanes/Data-Processing-Workflow-for-Raw-Data)
