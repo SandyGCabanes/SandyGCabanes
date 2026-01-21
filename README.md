@@ -4,7 +4,7 @@
 
 Hi! I'm **Sandy G Cabanes**, a Data Analyst with extensive Marketing Research background.  
 
-I enjoy manipulating and digging into data  to produce insights that answer business questions.
+I have hands-on experience with manipulating and digging into data  to produce insights that answer business questions.
 
 
 - I have been volunteering as a Community Leader at Data Engineering Pilipinas as one of the Moderators.
