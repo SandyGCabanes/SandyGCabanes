@@ -2,8 +2,6 @@
 
 ## Electric Vehicles Market Analysis
 
-**R Dashboard**  
-![Tesla Presentation](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/R/dashboard_charts/Tesla_presentation.gif)
 
 **Excel Dashboard**  
 ![Excel Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Excel/excel_dashboard.gif)
@@ -11,6 +9,8 @@
 **Python Dashboard**  
 ![Python Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Python/output_5000ms.gif)
 
+**R Dashboard**  
+![Tesla Presentation](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/R/dashboard_charts/Tesla_presentation.gif)
 ---
 
 ## Privacy and Bayesian Networks Using Python and R
