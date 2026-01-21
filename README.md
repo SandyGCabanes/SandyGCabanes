@@ -2,7 +2,7 @@
 ## Hi there 👋  Welcome to my Github!
 
 
-Hi! I'm **Sandy G Cabanes**, a certified Data Analyst with extensive Marketing Research background.  
+Hi! I'm **Sandy G Cabanes**, a Data Analyst with extensive Marketing Research background.  
 
 I enjoy manipulating and digging into data  to produce insights that answer business questions.
 
