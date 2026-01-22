@@ -27,6 +27,7 @@ I have hands-on experience with manipulating and digging into data  to produce i
 
 ---
 ### Data Analysis and Machine Learning:
+- [ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio)
 - [Market Size Revenue and Share Estimates of Electric Vehicles in WA -R, Excel, Python](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA)
 - [Anonymized Real-World Data Using Bayesian Networks to Protect Privacy - Python](https://github.com/SandyGCabanes/Anonymized-Survey-Data-Modeling-with-Bayesian-Networks-in-Python)
 - [Privacy Protection Using Bayesian Networks on Real World Survey Data to Produce Anonymized Dataset - R](https://github.com/SandyGCabanes/Survey-Data-Privacy-Protection-Using-R-and-Bayesian-Networks)
