@@ -33,11 +33,11 @@ Electric Vehicles Market Dashboard - Python Version <br>
 
 <br><br>
 Happiness Data - AWS Glue ETL <br> 
-![ETL Workflow](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/etl_thumb.gif)
+[![ETL Workflow](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/etl_thumb.gif)](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/README.md)
 
 <br><br>
 Unicode Flowchart Builder <br> <br>
-![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/flowchart_thumb.gif)
+[![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/flowchart_thumb.gif)](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App)
 
 
 
