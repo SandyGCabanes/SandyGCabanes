@@ -7,22 +7,22 @@
 
 ## Electric Vehicles Market Analysis
 
-###xcel Dashboard  
+### Excel Dashboard  
 ![Excel Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Excel/excel_dashboard.gif)
 
-###Python Dashboard
+### Python Dashboard
 ![Python Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Python/output_5000ms.gif)
 
-###R Dashboard  
+### R Dashboard  
 ![Tesla Presentation](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/R/dashboard_charts/Tesla_presentation.gif)
 ---
 
 ## Privacy and Bayesian Networks Using Python and R
 
-### Python Bayesian Network**  
+### Python Bayesian Network  
 ![Python BN](https://github.com/SandyGCabanes/Anonymized-Survey-Data-Modeling-with-Bayesian-Networks-in-Python/blob/main/loaded_model_1500_730pm.png)
 
-### R Bayesian Network**  
+### R Bayesian Network 
 ![R BN](https://github.com/SandyGCabanes/Survey-Data-Privacy-Protection-Using-R-and-Bayesian-Networks/blob/main/bn_network_graph.PNG)
 
 ---
