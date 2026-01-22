@@ -20,13 +20,26 @@ For a curated view, see the [Showcase Page](SHOWCASE.md)
 
 ### Demo Highlights:
 
-[![EV Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Python/ev_thumb.gif)](SHOWCASE.md#electric-vehicles-market-analysis)  
-*Electric Vehicles Market Dashboard - Python Version* <br>[R version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#r-dashboard-using-flexdashboard), [Excel version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#excel-dashboard-using-pivot-charts)  <br> <br>
+ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
+![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260122_50pct.gif)
 
-[![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/flowchart_thumb.gif)](SHOWCASE.md#storytelling-and-automation)  
+<br>
+Electric Vehicles Market Dashboard - Python Version <br> 
+
+![EV Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Python/ev_thumb.gif)
+
+- [R version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#r-dashboard-using-flexdashboard), 
+- [Excel version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#excel-dashboard-using-pivot-charts)
+
+<br>
+*Happiness Data - AWS Glue ETL* <br> 
+![ETL Workflow](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/etl_thumb.gif)
+
+<br><br>
 *Unicode Flowchart Builder* <br> <br>
-[![ETL Workflow](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/etl_thumb.gif)](SHOWCASE.md#cloud-etl-workflows)  
-*Happiness Data - AWS Glue ETL* <br> <br>
+![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/flowchart_thumb.gif)
+
+
 
 ---
 ### Data Analysis and Machine Learning:
