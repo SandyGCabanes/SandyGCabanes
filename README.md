@@ -2,18 +2,21 @@
 ## Hi there 👋  Welcome to my Github!
 
 
-Hi! I'm **Sandy G Cabanes**, a Data Analyst with extensive Marketing Research background.  
+Hi, I'm Sandy G. Cabanes — a Freelance Data Analyst with a strong Marketing Research foundation.  
+I specialize in turning messy, real-world data into clear insights that support business decisions.
 
-I have hands-on experience with manipulating and digging into data  to produce insights that answer business questions.
+My work focuses on:  
+- Cleaning and structuring data for analysis  
+- Exploring patterns and answering business questions  
+- Building dashboards and insight reports  
+- Delivering end-to-end analysis for small teams and organizations  
 
+Tools I use: Python, SQL, R, Power BI, Tableau, Excel with Power Query.  
+Experience with cloud environments: Google Cloud, AWS, Azure.
 
-- I have been volunteering as a Community Leader at Data Engineering Pilipinas as one of the Moderators.
-- I lead the State of the Community survey initiative. I designed, launched, processed data, analyzed data and presented findings.
-- I started the DEP DataMasters initiative to help like-minded individuals gain confidence in presenting data-related topics, as well as gain mock interview experience.
-- I use Python, SQL, R, Tableau, Power BI, and Excel with Power query for Data Analysis.
-- I have also used Google Cloud, AWS and Azure.  
-- Feel free to browse through my repositories!
-- See full gallery of walkthroughs in the [Showcase Page](SHOWCASE.md)
+You can browse my analysis projects and case studies in the repositories below.  
+For a curated view, see the [Showcase Page](SHOWCASE.md)
+
 
 ### Demo Highlights:
 
