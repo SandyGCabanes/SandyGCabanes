@@ -21,7 +21,7 @@ For a curated view, see the [Showcase Page](SHOWCASE.md)
 ### Demo Highlights:
 
 ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
-![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260122_50pct.gif)
+[![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260122_50pct.gif)](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/README.md)
 
 <br>
 Electric Vehicles Market Dashboard - Python Version <br> 
