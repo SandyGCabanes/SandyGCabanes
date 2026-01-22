@@ -26,7 +26,7 @@ ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker St
 <br>
 Electric Vehicles Market Dashboard - Python Version <br> 
 
-![EV Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Python/ev_thumb.gif)
+[![EV Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Python/ev_thumb.gif)](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/tree/main/Python#market-size-share-and-revenue-estimates-of-electric-vehicles-in-wa---focus-on-tesla)
 
 - [R version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#r-dashboard-using-flexdashboard), 
 - [Excel version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#excel-dashboard-using-pivot-charts)
