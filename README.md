@@ -31,12 +31,12 @@ Electric Vehicles Market Dashboard - Python Version <br>
 - [R version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#r-dashboard-using-flexdashboard), 
 - [Excel version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#excel-dashboard-using-pivot-charts)
 
-<br>
-*Happiness Data - AWS Glue ETL* <br> 
+<br><br>
+Happiness Data - AWS Glue ETL <br> 
 ![ETL Workflow](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/etl_thumb.gif)
 
 <br><br>
-*Unicode Flowchart Builder* <br> <br>
+Unicode Flowchart Builder <br> <br>
 ![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/flowchart_thumb.gif)
 
 
