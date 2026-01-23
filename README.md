@@ -22,6 +22,10 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
 [![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260122_50pct.gif)](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/README.md)
 
+Health Code Compliance Analysis for NYC Restaurants <br>
+[![Health Inspection Dashboard for NYC Restaurants](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/assets/output_20260123_50pct.gif)](https://github.com/SandyGCabanes/SandyGCabanes/blob/main/SHOWCASE.md#health-code-compliance-analysis-for-nyc-restaurants)
+
+
 <br>
 Electric Vehicles Market Size and Revenue Analysis Dashboard - Python Version <br> 
 
