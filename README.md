@@ -1,6 +1,4 @@
 # Sandy G Cabanes, Data Analyst 
-## Hi there 👋  Welcome to my Github!
-
 
 Hi, I'm Sandy G. Cabanes — a Freelance Data Analyst with a strong Marketing Research foundation.  
 I specialize in turning messy, real-world data into clear insights that support business decisions.
