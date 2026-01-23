@@ -8,7 +8,7 @@
 
 ## Health Code Compliance Analysis for NYC Restaurants
 
-![Power BI Dashboard](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/assets/output_20260123_171212.gif)
+[![Power BI Dashboard](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/assets/output_20260123_171212.gif)](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/README.md)
 
 ## Electric Vehicles Market Analysis
 
