@@ -44,11 +44,14 @@
 
 ---
 
-## Storytelling and Automation
+## Storytelling 
 
 ### Power BI Storytelling 
 ![Power BI](https://github.com/SandyGCabanes/Storytelling-with-Data-in-Power-BI-on-Latin-America-Urbanization/blob/main/demo_github.gif)
 
+---
+
+## Automation
 ### Unicode Flowchart Builder 
 ![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/unicode_flowchart_demo.mp4_1.0x_1080px_.gif)
 
