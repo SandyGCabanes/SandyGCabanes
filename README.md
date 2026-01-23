@@ -13,7 +13,7 @@ Tools I use: Python, SQL, R, Power BI, Tableau, Excel with Power Query.
 Experience with cloud environments: Google Cloud, AWS, Azure.
 
 You can browse my analysis projects and case studies in the repositories below.  
-For a curated view, see the [Showcase Page](SHOWCASE.md)
+For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.md)
 
 
 ### Demo Highlights:
