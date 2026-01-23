@@ -22,7 +22,7 @@ ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker St
 [![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260122_50pct.gif)](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/README.md)
 
 <br>
-Electric Vehicles Market Dashboard - Python Version <br> 
+Electric Vehicles Market Size and Revenue Analysis Dashboard - Python Version <br> 
 
 [![EV Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Python/ev_thumb.gif)](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/tree/main/Python#market-size-share-and-revenue-estimates-of-electric-vehicles-in-wa---focus-on-tesla)
 
