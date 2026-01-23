@@ -5,6 +5,11 @@
 
 ![Looker Studio Dasboard](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260122_75pct.gif)
 
+
+## Health Code Compliance Analysis for NYC Restaurants
+
+![Power BI Dashboard](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/assets/output_20260123_164712.gif)
+
 ## Electric Vehicles Market Analysis
 
 ### Excel Dashboard  
