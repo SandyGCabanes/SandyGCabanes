@@ -1,6 +1,6 @@
 # Sandy G Cabanes, Data Analyst 
 
-Hi, I'm Sandy G. Cabanes — a Freelance Full-Stack Data Analyst with a strong Marketing Research foundation.  
+Hi, I'm Sandy G. Cabanes — a Freelance Full-Stack Data Analyst with a strong Marketing Research background.  
 I sort through real‑world data, structure it properly, and build analyses that help people see patterns, risks, and opportunities.
 
 My work focuses on:  
@@ -22,7 +22,7 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
 [![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260122_50pct.gif)](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/README.md)
 
-Health Code Compliance Analysis for NYC Restaurants <br>
+Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI <br>
 [![Health Inspection Dashboard for NYC Restaurants](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/assets/output_20260123_50pct.gif)](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/README.md)
 
 
@@ -47,6 +47,7 @@ Unicode Flowchart Builder <br> <br>
 ---
 ### Data Analysis and Machine Learning:
 - [ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio)
+- [Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/README.md)
 - [Market Size Revenue and Share Estimates of Electric Vehicles in WA -R, Excel, Python](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA)
 - [Anonymized Real-World Data Using Bayesian Networks to Protect Privacy - Python](https://github.com/SandyGCabanes/Anonymized-Survey-Data-Modeling-with-Bayesian-Networks-in-Python)
 - [Privacy Protection Using Bayesian Networks on Real World Survey Data to Produce Anonymized Dataset - R](https://github.com/SandyGCabanes/Survey-Data-Privacy-Protection-Using-R-and-Bayesian-Networks)
