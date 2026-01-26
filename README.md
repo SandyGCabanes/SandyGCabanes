@@ -1,7 +1,7 @@
 # Sandy G Cabanes, Data Analyst 
 
 Hi, I'm Sandy G. Cabanes — a Freelance Full-Stack Data Analyst with a strong Marketing Research foundation.  
-I specialize in turning messy, real-world data into clear insights that support business decisions.
+I sort through real‑world data, structure it properly, and build analyses that help people see patterns, risks, and opportunities.
 
 My work focuses on:  
 - Cleaning and structuring data for analysis 
