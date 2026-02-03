@@ -16,23 +16,23 @@ Experience with cloud environments: Google Cloud, AWS, Azure.
 You can browse my analysis projects and case studies in the repositories below.  
 For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.md)
 
-
+<br><br>
 ### Demo Highlights:
-
+<br><br>
 ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
 [![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260122_50pct.gif)](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/README.md)
 
-
+<br><br>
 Walmart Holiday Sales Insights with DBT and Python <br>
 [Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights) <br>
 [![Visualizations](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights/blob/main/assets/output_3000ms.gif)](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights)
 
-
+<br><br>
 Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI <br>
 [![Health Inspection Dashboard for NYC Restaurants](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/assets/output_20260123_50pct.gif)](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/README.md)
 
 
-<br>
+<br><br>
 Electric Vehicles Market Size and Revenue Analysis Dashboard - Python Version <br> 
 
 [![EV Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Python/ev_thumb.gif)](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/tree/main/Python#market-size-share-and-revenue-estimates-of-electric-vehicles-in-wa---focus-on-tesla)
@@ -45,7 +45,7 @@ Happiness Data - AWS Glue ETL <br>
 [![ETL Workflow](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/etl_thumb.gif)](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/README.md)
 
 <br><br>
-Unicode Flowchart Builder <br> <br>
+Unicode Flowchart Builder <br> 
 [![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/flowchart_thumb.gif)](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App)
 
 
