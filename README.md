@@ -55,6 +55,7 @@ Unicode Flowchart Builder <br>
 ---
 ### Data Analysis and Machine Learning:
 - [ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio)
+- [Walmart Holiday Sales Insights with DBT and Python](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights) <br>
 - [Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/README.md)
 - [Market Size Revenue and Share Estimates of Electric Vehicles in WA -R, Excel, Python](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA)
 - [Anonymized Real-World Data Using Bayesian Networks to Protect Privacy - Python](https://github.com/SandyGCabanes/Anonymized-Survey-Data-Modeling-with-Bayesian-Networks-in-Python)
