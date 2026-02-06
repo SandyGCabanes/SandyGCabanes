@@ -3,7 +3,7 @@
 
 ## Ecommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio
 
-![Looker Studio Dasboard](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260122_75pct.gif)
+![Looker Studio Dasboard](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260206_75pct.gif)
 
 
 ## Health Code Compliance Analysis for NYC Restaurants (Real-World Data from NYC Gov Website)
