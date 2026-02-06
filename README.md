@@ -47,7 +47,7 @@ Electric Vehicles Market Size and Revenue Analysis Dashboard - Python Version <b
 
 [![EV Dashboard](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/Python/ev_thumb.gif)]
 
-- [R version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#r-dashboard-using-flexdashboard), 
+- [R version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/blob/main/R/Tesla_presentation.pdf), 
 - [Excel version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#excel-dashboard-using-pivot-charts)
 
 <br><br>
