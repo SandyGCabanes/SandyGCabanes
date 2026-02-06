@@ -37,7 +37,7 @@ Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI <br>
 
 [Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/README.md) <br>
 
-![Health Inspection Dashboard for NYC Restaurants](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/assets/output_20260123_50pct.gif)
+[![Health Inspection Dashboard for NYC Restaurants](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/assets/output_20260123_50pct.gif)](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260206_75pct.gif)
 
 
 <br><br>
