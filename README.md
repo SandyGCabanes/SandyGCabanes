@@ -30,7 +30,7 @@ RetailCo Holiday Sales Insights with DBT and Python <br>
 
 [Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/RetailCo-Holiday-Sales-Insights) <br>
 
-![Visualizations](https://github.com/SandyGCabanes/RetailCo-Holiday-Sales-Insights/blob/main/assets/Presentation_Slide.png)
+[![Visualizations](https://github.com/SandyGCabanes/RetailCo-Holiday-Sales-Insights/blob/main/assets/Presentation_Slide_50pct.png)](https://github.com/SandyGCabanes/RetailCo-Holiday-Sales-Insights/blob/main/assets/Presentation_Slide.png)
 
 <br><br>
 Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI <br>
