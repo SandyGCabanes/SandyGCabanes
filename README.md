@@ -26,9 +26,9 @@ ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker St
 ![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260122_50pct.gif)
 
 <br><br>
-Walmart Holiday Sales Insights with DBT and Python <br>
+RetailCo Holiday Sales Insights with DBT and Python <br>
 
-[Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights) <br>
+[Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/RetailCo-Holiday-Sales-Insights) <br>
 
 [![Visualizations](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights/blob/main/assets/output_3000ms.gif)](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights)
 
@@ -65,7 +65,7 @@ Unicode Flowchart Builder <br>
 ---
 ### Data Analysis and Machine Learning:
 - [ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio)
-- [Walmart Holiday Sales Insights with DBT and Python](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights) <br>
+- [RetailCo Holiday Sales Insights with DBT and Python](https://github.com/SandyGCabanes/RetailCo-Holiday-Sales-Insights) <br>
 - [Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/README.md)
 - [Market Size Revenue and Share Estimates of Electric Vehicles in WA -R, Excel, Python](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA)
 - [Anonymized Real-World Data Using Bayesian Networks to Protect Privacy - Python](https://github.com/SandyGCabanes/Anonymized-Survey-Data-Modeling-with-Bayesian-Networks-in-Python)
