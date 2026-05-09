@@ -21,7 +21,7 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 ### Recent Additions:
 <br><br>
 
-Xero → Fivetran → BigQuery Pipeline <br>
+## Xero → Fivetran → BigQuery Pipeline <br>
 > A data pipeline that moves Xero accounting data into Google BigQuery automatically, applies a transformation layer using dbt, and produces analytics-ready tables that can be queried across all invoices, clients, and time periods simultaneously.
 [Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/revenue_insights.md) <br>
 
@@ -32,7 +32,7 @@ Xero → Fivetran → BigQuery Pipeline <br>
 ![Inside Fivetran](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/assets/3.xero_details_m.png)
 
 <br><br>
-ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
+## ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
 
 [Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/README.md) <br>
 
@@ -42,7 +42,7 @@ ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker St
 
 
 <br><br>
-Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI <br>
+## Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI <br>
 
 [Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/README.md) <br>
 
@@ -50,7 +50,7 @@ Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI <br>
 
 
 <br><br>
-Electric Vehicles Market Size and Revenue Analysis Dashboard - Python Version <br> 
+## Electric Vehicles Market Size and Revenue Analysis Dashboard - Python Version <br> 
 
 [Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/tree/main/Python#market-size-share-and-revenue-estimates-of-electric-vehicles-in-wa---focus-on-tesla) <br>
 
@@ -60,12 +60,12 @@ Electric Vehicles Market Size and Revenue Analysis Dashboard - Python Version <b
 - [Excel version here](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA#excel-dashboard-using-pivot-charts)
 
 <br><br>
-Happiness Data - AWS Glue ETL <br> 
+## Happiness Data - AWS Glue ETL <br> 
 
 [![ETL Workflow](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/etl_thumb.gif)](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/README.md)
 
 <br><br>
-Unicode Flowchart Builder <br> 
+## Unicode Flowchart Builder <br> 
 
 [![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/flowchart_thumb.gif)](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App)
 
