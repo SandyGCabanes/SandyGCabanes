@@ -17,7 +17,7 @@ You can browse my analysis projects and case studies in the repositories below.
 For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.md)
 
 <br><br>
-### Demo Highlights:
+### Recent Additions:
 <br><br>
 ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
 
