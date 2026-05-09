@@ -17,7 +17,20 @@ You can browse my analysis projects and case studies in the repositories below.
 For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.md)
 
 <br><br>
+
 ### Recent Additions:
+<br><br>
+
+Xero → Fivetran → BigQuery Pipeline <br>
+> A data pipeline that moves Xero accounting data into Google BigQuery automatically, applies a transformation layer using dbt, and produces analytics-ready tables that can be queried across all invoices, clients, and time periods simultaneously.
+[Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/revenue_insights.md) <br>
+
+[Click Here for the Full Pipeline Details](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/pipeline_technical_brief.md)
+
+[Click Here for the Data Quality Findings](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/data_quality_findings.md)
+
+![Inside Fivetran](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/assets/3.xero_details_m.png)
+
 <br><br>
 ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
 
@@ -26,11 +39,7 @@ ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker St
 [![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260206_50pct.gif)](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/Dashboards.md)
 
 <br><br>
-RetailCo Holiday Sales Insights with DBT and Python <br>
 
-[Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/RetailCo-Holiday-Sales-Insights) <br>
-
-[![Visualizations](https://github.com/SandyGCabanes/RetailCo-Holiday-Sales-Insights/blob/main/assets/Presentation_Slide_50pct.png)](https://github.com/SandyGCabanes/RetailCo-Holiday-Sales-Insights/blob/main/assets/Presentation_Slide.png)
 
 <br><br>
 Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI <br>
