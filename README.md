@@ -1,14 +1,12 @@
 # Sandy G Cabanes, Data Analyst 
 
 Hi, I'm Sandy G. Cabanes — a Freelance Full-Stack Data Analyst with a strong Marketing Research background.  
-I sort through real‑world data, structure it properly, and build analyses that help people see patterns, risks, and opportunities.
+AI spaces have made it easier to get an answer — but it is still critical to have clean data, sound structure, secure settings, replicability, and of course, pipelines that work. ML APIs are racing to get the analysis done quickly, but it is still important to link analysis to the right business questions, and make them actionable.
 
 My work focuses on:  
-- Delivering end-to-end analysis for small teams and organizations
-- Creating an automated pipeline 
-- Cleaning and structuring data for analysis 
-- Exploring patterns and answering business questions  
-- Building dashboards and insight reports
+- Building end-to-end pipelines to analysis for small teams and organizations
+- Cleaning and structuring data so it's ready for analysis — or for whatever AI layer sits on top
+- Delivering dashboards and insight reports that people can actually use
 
 
 
