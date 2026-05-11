@@ -29,7 +29,7 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 
 [Click Here for the Data Quality Findings](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/data_quality_findings.md)
 
-![Inside Fivetran](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/assets/3.xero_details_m.png)
+![Xero - Fivetran - BigQuery Walkthrough](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/README.md)
 
 <br><br>
 ## ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
