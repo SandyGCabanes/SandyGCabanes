@@ -4,11 +4,13 @@ Hi, I'm Sandy G. Cabanes — a Freelance Full-Stack Data Analyst with a strong M
 I sort through real‑world data, structure it properly, and build analyses that help people see patterns, risks, and opportunities.
 
 My work focuses on:  
+- Delivering end-to-end analysis for small teams and organizations
+- Creating an automated pipeline 
 - Cleaning and structuring data for analysis 
 - Exploring patterns and answering business questions  
 - Building dashboards and insight reports
-- Creating an automated pipeline
-- Delivering end-to-end analysis for small teams and organizations  
+
+
 
 Tools I use: Python, SQL, R, Power BI, Tableau, Excel with Power Query.  
 Experience with cloud environments: Google Cloud, AWS, Azure.
