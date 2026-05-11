@@ -29,6 +29,7 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 
 [Click Here for the Data Quality Findings](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/data_quality_findings.md)
 
+### Xero - Fivetran - BigQuery Walkthrough
 ![Xero - Fivetran - BigQuery Walkthrough](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/assets/walkthrough_xero_bigquery_fivetran.gif)
 
 <br><br>
