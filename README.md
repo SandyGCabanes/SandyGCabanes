@@ -16,7 +16,7 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 
 <br><br>
 
-### Recent Additions:
+## Recent Additions:
 <br><br>
 
 ## Xero → Fivetran → BigQuery Pipeline <br>
