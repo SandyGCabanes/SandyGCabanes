@@ -8,8 +8,6 @@ My work focuses on:
 - Cleaning and structuring data so it's ready for analysis — or for whatever AI layer sits on top
 - Delivering dashboards and insight reports that people can actually use
 
-
-
 Tools I use: Python, SQL, R, Power BI, Tableau, Excel with Power Query.  
 Experience with cloud environments: Google Cloud, AWS, Azure, Databricks.
 
@@ -32,14 +30,23 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 ### Xero - Fivetran - BigQuery Walkthrough
 ![Xero - Fivetran - BigQuery Walkthrough](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/assets/walkthrough_xero_bigquery_fivetran.gif)
 
+<br><br><br>
+## MMDA Traffic Data Pipeline from PDFs to Data Analysis with Databricks
+Applies modern data workflow in the Databricks cloud platform.  Parsed annual traffic data from Metro Manila Development Authority portal that are only available in scanned pdf hard copies of reports.  Data from pdfs automatically stored as delta tables in Databricks.  
+
+[Click here for the project](https://github.com/SandyGCabanes/MMDA-Traffic-Data-Pipeline-and-Analysis-with-Databricks)
+
+![MMDA Average Annual Daily Traffic Analysis](https://github.com/SandyGCabanes/MMDA-Traffic-Data-Pipeline-and-Analysis-with-Databricks/blob/main/dashboard.png)
+
 <br><br>
-## ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio <br>
+## ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio (Data Studio) <br>
 
 [Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/README.md) <br>
 
 [![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260206_50pct.gif)](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/Dashboards.md)
 
 <br><br>
+
 
 
 <br><br>
@@ -64,12 +71,6 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 ## Happiness Data - AWS Glue ETL <br> 
 
 [![ETL Workflow](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/etl_thumb.gif)](https://github.com/SandyGCabanes/ETL-Using-AWS-Glue-WH-Data/blob/main/README.md)
-
-<br><br>
-## Unicode Flowchart Builder <br> 
-
-[![Flowchart Builder](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App/blob/main/flowchart_thumb.gif)](https://github.com/SandyGCabanes/Unicode-Flowchart-Builder-App)
-
 
 
 ---
