@@ -22,7 +22,7 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 
 ## Xero → Fivetran → BigQuery Pipeline <br>
 > A data pipeline that moves Xero accounting data into Google BigQuery automatically, applies a transformation layer using dbt, and produces analytics-ready tables that can be queried across all invoices, clients, and time periods simultaneously.
-[Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/revenue_insights.md) <br>
+[Click Here for Analyst's Revenue Insights](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/revenue_insights_with_sql_code.md) <br>
 
 [Click Here for the Full Pipeline Details](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/pipeline_technical_brief.md)
 
