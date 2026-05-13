@@ -21,7 +21,10 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 <br><br>
 
 ## Xero → Fivetran → BigQuery Pipeline <br>
-> A data pipeline that moves Xero accounting data into Google BigQuery automatically, applies a transformation layer using dbt, and produces analytics-ready tables that can be queried across all invoices, clients, and time periods simultaneously.
+### ELT to Dashboard End-to-End <br>
+> A data pipeline that moves Xero accounting data into Google BigQuery automatically, applies a transformation layer using dbt, and produces analytics-ready tables that can be queried across all invoices, clients, and time periods simultaneously.  Includes a Data Studio (Looker Studio) [Dashboard for Revenue and Service Type toplines that are directly querying from BigQuery.](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/assets/Dashboard_Xero_Demo_Company_(BQ_connection).pdf)
+<br>
+
 [Click Here for Analyst's Revenue Insights](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/revenue_insights_with_sql_code.md) <br>
 
 [Click Here for the Full Pipeline Details](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/pipeline_technical_brief.md)
@@ -32,7 +35,9 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 ![Xero - Fivetran - BigQuery Walkthrough](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/assets/walkthrough_xero_bigquery_fivetran.gif)
 
 <br><br><br>
+---
 ## MMDA Traffic Data Pipeline from PDFs to Data Analysis with Databricks
+
 Applies modern data workflow in the Databricks cloud platform.  Parsed annual traffic data from Metro Manila Development Authority portal that are only available in scanned pdf hard copies of reports.  Data from pdfs automatically stored as delta tables in Databricks.  
 
 [Click here for the project](https://github.com/SandyGCabanes/MMDA-Traffic-Data-Pipeline-and-Analysis-with-Databricks)
@@ -40,17 +45,18 @@ Applies modern data workflow in the Databricks cloud platform.  Parsed annual tr
 ![MMDA Average Annual Daily Traffic Analysis](https://github.com/SandyGCabanes/MMDA-Traffic-Data-Pipeline-and-Analysis-with-Databricks/blob/main/dashboard.png)
 
 <br><br>
+---
 ## ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio (Data Studio) <br>
+
+Applies raw data transformations using Postgres in Supabase, exports a materialized view into Google Sheets as final gold table, and links Data Studio (Looker Studio) to the Google sheets. Surfaced insights about revenue trends, revenues by markets and products.
 
 [Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/README.md) <br>
 
 [![ECommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/assets/output_20260206_50pct.gif)](https://github.com/SandyGCabanes/ECommerce-Sales-and-Customer-Analytics-With-Supabase-Google-Sheets-and-Looker-Studio/blob/main/Dashboards.md)
 
-<br><br>
-
-
 
 <br><br>
+---
 ## Health Code Compliance Analysis for NYC Restaurants Using SQL, Power BI <br>
 
 [Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Health-Code-Compliance-Analysis-for-NYC-Restaurants/blob/main/README.md) <br>
@@ -59,6 +65,7 @@ Applies modern data workflow in the Databricks cloud platform.  Parsed annual tr
 
 
 <br><br>
+---
 ## Electric Vehicles Market Size and Revenue Analysis Dashboard - Python Version <br> 
 
 [Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Market-Size-Revenue-and-Share-Estimates-of-Electric-Vehicles-in-WA/tree/main/Python#market-size-share-and-revenue-estimates-of-electric-vehicles-in-wa---focus-on-tesla) <br>
