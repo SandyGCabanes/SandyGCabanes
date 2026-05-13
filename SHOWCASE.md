@@ -1,5 +1,24 @@
 # Showcase of Dashboards and Workflows
 
+<br><br>
+## Xero → Fivetran → BigQuery Pipeline <br>
+> A data pipeline that moves Xero accounting data into Google BigQuery automatically, applies a transformation layer using dbt, and produces analytics-ready tables that can be queried across all invoices, clients, and time periods simultaneously.
+[Click Here for Analyst's Report to Stakeholders](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/revenue_insights.md) <br>
+
+[Click Here for the Full Pipeline Details](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/pipeline_technical_brief.md)
+
+[Click Here for the Data Quality Findings](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/docs/data_quality_findings.md)
+
+### Xero - Fivetran - BigQuery Walkthrough
+![Xero - Fivetran - BigQuery Walkthrough](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/assets/walkthrough_xero_bigquery_fivetran.gif)
+
+<br><br><br>
+## MMDA Traffic Data Pipeline from PDFs to Data Analysis with Databricks
+Applies modern data workflow in the Databricks cloud platform.  Parsed annual traffic data from Metro Manila Development Authority portal that are only available in scanned pdf hard copies of reports.  Data from pdfs automatically stored as delta tables in Databricks.  
+
+[Click here for the project](https://github.com/SandyGCabanes/MMDA-Traffic-Data-Pipeline-and-Analysis-with-Databricks)
+
+![MMDA Average Annual Daily Traffic Analysis](https://github.com/SandyGCabanes/MMDA-Traffic-Data-Pipeline-and-Analysis-with-Databricks/blob/main/dashboard.png)
 
 ## Ecommerce Sales and Customer Analytics With Supabase Google Sheets and Looker Studio
 
