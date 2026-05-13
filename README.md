@@ -1,6 +1,7 @@
 # Sandy G Cabanes, Data Analyst 
 
-Hi, I'm Sandy G. Cabanes — a Freelance Full-Stack Data Analyst with a strong Marketing Research background.  
+Hi, I'm Sandy G. Cabanes — a Freelance Full-Stack Data Analyst with a strong Marketing Research background.  <br><br>
+---
 AI spaces have made it easier to get an answer — but it is still critical to have clean data, sound structure, secure settings, replicability, and of course, pipelines that work. ML APIs are racing to get the analysis done quickly, but it is still important to link analysis to the right business questions, and make them actionable.
 
 My work focuses on:  
