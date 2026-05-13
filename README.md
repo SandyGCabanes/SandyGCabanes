@@ -20,7 +20,7 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 ## Recent Additions:
 <br><br>
 
-## Xero → Fivetran → BigQuery Pipeline <br>
+## Xero - Fivetran - BigQuery Pipeline - Data Studio <br>
 ### ELT to Dashboard End-to-End <br>
 > A data pipeline that moves Xero accounting data into Google BigQuery automatically, applies a transformation layer using dbt, and produces analytics-ready tables that can be queried across all invoices, clients, and time periods simultaneously.  Includes a Data Studio (Looker Studio) [Dashboard for Revenue and Service Type toplines that are directly querying from BigQuery.](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/assets/Dashboard_Xero_Demo_Company_(BQ_connection).pdf)
 <br>
