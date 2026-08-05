@@ -21,7 +21,13 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 <br><br>
 
 ## Q2 Milktea and Cake Sales Performance Dashboard and Dataset Generation
->This project demonstrates how to solve a common retail problem: tracking down why sales dropped over a quarter. Because real store data is confidential, a custom Python script was used to build a highly realistic transaction dataset from scratch. Seasonal shifts and branch performance drops are included to run a proper root-cause analysis.
+
+An end-to-end Python data pipeline and automated Excel dashboard, tracking **revenue**, **delivery channels** and **product trends** across **5 store locations.**
+
+
+This project demonstrates how to solve a common retail problem: **tracking down why sales dropped over a quarter.** Because real store data is confidential, a **custom Python script was used to build a highly realistic transaction dataset** from scratch. **Seasonal shifts** and **branch performance drops** are included in the python dataset building script to run a proper root-cause analysis.
+
+
 ![https://raw.githubusercontent.com/SandyGCabanes/Milktea-and-Cake-Sales-Performance-Dashboard-and-Dataset-Generation/main/excel_dashboard_thumb.png](https://raw.githubusercontent.com/SandyGCabanes/Milktea-and-Cake-Sales-Performance-Dashboard-and-Dataset-Generation/main/excel_dashboard_thumb.png)
 
 
