@@ -9,7 +9,7 @@ My work focuses on:
 - Cleaning and structuring data so it's ready for analysis, or for whatever AI layer sits on top
 - Delivering dashboards and insight reports that people can actually use
 
-Tools I use: Python, SQL, R, Power BI, Tableau, Excel with Power Query.  
+Tools I use: dbt, Python, SQL, R, Power BI, Tableau, Excel with Power Query.  
 Cloud environments used: Google Cloud, AWS, Azure, Databricks.
 
 You can browse my analysis projects and case studies in the repositories below.  
