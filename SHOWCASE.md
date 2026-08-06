@@ -1,5 +1,19 @@
 # Showcase of Dashboards and Workflows
+<br><br>
 
+## [Q2 Milktea and Cake Sales Performance Dashboard and Dataset Generation ](https://github.com/SandyGCabanes/Milktea-and-Cake-Sales-Performance-Dashboard-and-Dataset-Generation)
+
+An end-to-end Python data pipeline and automated [Excel dashboard](https://github.com/SandyGCabanes/Milktea-and-Cake-Sales-Performance-Dashboard-and-Dataset-Generation/blob/main/pearltea_transactions_github.xlsx), tracking **revenue**, **delivery channels** and **product trends** across **5 store locations.**
+
+
+This project demonstrates how to solve a common retail problem: **tracking down why sales dropped over a quarter.** Because real store data is confidential, a **custom Python script was used to build a highly realistic transaction dataset** from scratch. **Seasonal shifts** and **branch performance drops** are included in the python dataset building script to run a proper root-cause analysis.
+
+
+![Milktea and Cake Sales Dashboard](https://raw.githubusercontent.com/SandyGCabanes/Milktea-and-Cake-Sales-Performance-Dashboard-and-Dataset-Generation/main/excel_dashboard.png)
+
+
+<br><br><br>
+---
 <br><br>
 ## Xero → Fivetran → BigQuery Pipeline <br>
 > A data pipeline that moves Xero accounting data into Google BigQuery automatically, applies a transformation layer using dbt, and produces analytics-ready tables that can be queried across all invoices, clients, and time periods simultaneously.
