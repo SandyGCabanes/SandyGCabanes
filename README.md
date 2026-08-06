@@ -53,7 +53,7 @@ This project demonstrates how to solve a common retail problem: **tracking down 
 
 Applies modern data workflow in the Databricks cloud platform.  Parsed annual traffic data from Metro Manila Development Authority portal that are only available in scanned pdf hard copies of reports.  Data from pdfs automatically stored as delta tables in Databricks.  
 
-[![MMDA Average Annual Daily Traffic Analysis](https://github.com/SandyGCabanes/MMDA-Traffic-Data-Pipeline-and-Analysis-with-Databricks/blob/main/dashboard_thumb.png)](https://github.com/SandyGCabanes/MMDA-Traffic-Data-Pipeline-and-Analysis-with-Databricks/blob/main/dashboard.png)
+[![MMDA Average Annual Daily Traffic Analysis](https://raw.githubusercontent.com/SandyGCabanes/MMDA-Traffic-Data-Pipeline-and-Analysis-with-Databricks/main/dashboard_thumb.png)](https://raw.githubusercontent.com/SandyGCabanes/MMDA-Traffic-Data-Pipeline-and-Analysis-with-Databricks/main/dashboard.png)
 
 <br><br>
 ---
