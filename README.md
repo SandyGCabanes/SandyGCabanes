@@ -20,9 +20,9 @@ For a more comprehensive gallery of projects, see the [Showcase Page](SHOWCASE.m
 ## Recent Additions:
 <br><br>
 
-## Q2 Milktea and Cake Sales Performance Dashboard and Dataset Generation
+## [Q2 Milktea and Cake Sales Performance Dashboard and Dataset Generation ](https://github.com/SandyGCabanes/Milktea-and-Cake-Sales-Performance-Dashboard-and-Dataset-Generation)
 
-An end-to-end Python data pipeline and automated Excel dashboard, tracking **revenue**, **delivery channels** and **product trends** across **5 store locations.**
+An end-to-end Python data pipeline and automated [Excel dashboard](https://github.com/SandyGCabanes/Milktea-and-Cake-Sales-Performance-Dashboard-and-Dataset-Generation/blob/main/pearltea_transactions_github.xlsx), tracking **revenue**, **delivery channels** and **product trends** across **5 store locations.**
 
 
 This project demonstrates how to solve a common retail problem: **tracking down why sales dropped over a quarter.** Because real store data is confidential, a **custom Python script was used to build a highly realistic transaction dataset** from scratch. **Seasonal shifts** and **branch performance drops** are included in the python dataset building script to run a proper root-cause analysis.
@@ -33,7 +33,7 @@ This project demonstrates how to solve a common retail problem: **tracking down 
 
 <br><br><br>
 ---
-## Xero - Fivetran - BigQuery Pipeline - Data Studio <br>
+## [Xero - Fivetran - BigQuery Pipeline - Data Studio](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/tree/main) <br>
 ### ELT to Dashboard End-to-End <br>
 > A data pipeline that moves Xero accounting data into Google BigQuery automatically, applies a transformation layer using dbt, and produces analytics-ready tables that can be queried across all invoices, clients, and time periods simultaneously.  Includes a Data Studio (Looker Studio) [Dashboard for Revenue and Service Type toplines that are directly querying from BigQuery.](https://github.com/SandyGCabanes/Xero-Fivetran-BigQuery-Pipeline/blob/main/assets/Dashboard_Xero_Demo_Company_(BQ_connection).pdf)
 <br>
