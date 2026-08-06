@@ -28,7 +28,7 @@ An end-to-end Python data pipeline and automated [Excel dashboard](https://githu
 This project demonstrates how to solve a common retail problem: **tracking down why sales dropped over a quarter.** Because real store data is confidential, a **custom Python script was used to build a highly realistic transaction dataset** from scratch. **Seasonal shifts** and **branch performance drops** are included in the python dataset building script to run a proper root-cause analysis.
 
 
-![Milktea and Cake Sales Dashboard](https://raw.githubusercontent.com/SandyGCabanes/Milktea-and-Cake-Sales-Performance-Dashboard-and-Dataset-Generation/main/excel_dashboard.png)
+[![Milktea and Cake Sales Dashboard](https://raw.githubusercontent.com/SandyGCabanes/Milktea-and-Cake-Sales-Performance-Dashboard-and-Dataset-Generation/main/excel_dashboard_thumb.png)](https://raw.githubusercontent.com/SandyGCabanes/Milktea-and-Cake-Sales-Performance-Dashboard-and-Dataset-Generation/main/excel_dashboard.png)
 
 
 <br><br><br>
